@@ -15,7 +15,7 @@ Before running the code, ensure that you have the following prerequisites:
 1. Clone the repository:
 
    ```shell
-   git clone ___
+   git clone https://github.com/PavelUrusov/MovieRecommendation.git
 2. Build the solution:
     ```shell
     cd MovieRecommendation
